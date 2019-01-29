@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/dannertech/wmta-alexa-app/issues"
   },
-  "homepage": "https://github.com/dannertech/wmta-alexa-app#readme"
+  "homepage": "https://github.com/dannertech/wmta-alexa-app#readme",
+  "dependencies": {
+    "alexa-verifier": "^2.0.1",
+    "ask-sdk": "^2.3.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
 }
