@@ -1,0 +1,23 @@
+{
+  "name": "wmta-alexa-app",
+  "version": "1.0.0",
+  "description": "an alexa app for the washington d.c. rail system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannertech/wmta-alexa-app.git"
+  },
+  "keywords": [
+    "wmta",
+    "alexa"
+  ],
+  "author": "Dia'Monique Danner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannertech/wmta-alexa-app/issues"
+  },
+  "homepage": "https://github.com/dannertech/wmta-alexa-app#readme"
+}
